@@ -1,10 +1,10 @@
-# My Comment Library
+# DRF-Commnts
 
 A library for adding comments to models using Django REST Framework.
 
 ## Installation
 ```bash
-pip install my_comment_library
+pip install drf-comments
 ```
 
 ## Usage
