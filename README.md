@@ -1,4 +1,4 @@
-# DRF-Commnts
+# DRF-Comments
 
 A library for adding comments to models using Django REST Framework.
 
